@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>action</key>
+				<string>twitter</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>twitter.png</string>
+				<key>label</key>
+				<string>@semvis123</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<string>github</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>github.png</string>
+				<key>label</key>
+				<string>semvis123</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<string>donate</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>label</key>
+				<string>Donate</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string></string>
+				<key>footerText</key>
+				<string>Semvis123 © 2021</string>
+				<key>isStaticText</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<true />
+				<key>defaults</key>
+				<string>com.semvis123.nospatialaudiobtnpreferences</string>
+				<key>key</key>
+				<string>enabled</string>
+				<key>label</key>
+				<string>Enabled</string>
+				<key>PostNotification</key>
+				<string>com.semvis123.nospatialaudiobtnpreferences/update</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<string>respring:</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>label</key>
+				<string>Respring to apply changes</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>NoSpatialAudioBtn</string>
+	</dict>
+</plist>
