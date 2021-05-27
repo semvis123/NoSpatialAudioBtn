@@ -1,6 +1,6 @@
 Package: com.semvis123.nospatialaudiobtn
 Name: NoSpatialAudioBtn
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Simple tweak that removes the spatial audio button
 Maintainer: Sem Visscher
