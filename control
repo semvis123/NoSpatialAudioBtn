@@ -6,4 +6,4 @@ Description: Simple tweak that removes the spatial audio button
 Maintainer: Sem Visscher
 Author: Sem Visscher
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0)
